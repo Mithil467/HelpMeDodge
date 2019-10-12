@@ -1,5 +1,5 @@
-var PipeColor = "yellow";
-var PlayerColor = "pink";
+var PipeColor = "Red";
+var PlayerColor = "Green";
 
 var BirdSpeed = 1;
 var PipeSpeed = 1;
@@ -11,8 +11,7 @@ var DownKey = "ArrowRight";
 var MadeByName = "Mithil";
 var Message = "DEAD!";
 var GameName = "Help Me DODGE viper!";
-var DisplayScore = false;
-
+var DisplayScore =true;
 
 /*
 https://www.w3schools.com/colors/colors_names.asp

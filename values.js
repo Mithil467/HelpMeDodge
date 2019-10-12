@@ -1,19 +1,20 @@
-var PipeColor = "yellow";
-var PlayerColor = "pink";
+var PipeColor = "blue";
+var PlayerColor = "orange";
 
-var BirdSpeed = 1;
-var PipeSpeed = 1;
-var PipeGap = 50;
+var BirdSpeed = 3;
+var PipeSpeed = 3;
+var PipeGap = 60;
 
-var UpKey = "ArrowLeft";
-var DownKey = "ArrowRight";
+var UpKey = "w";
+var DownKey = "s";
 
-var MadeByName = "Mithil";
-var Message = "DEAD!";
-var GameName = "Help Me DODGE viper!";
-var DisplayScore = false;
+var MadeByName = "Bloodlust";
+var Message = "Game Over!";
+var GameName = "Help Me DODGE !";
+var DisplayScore = true;
 
 
 /*
 https://www.w3schools.com/colors/colors_names.asp
+*/s_names.asp
 */

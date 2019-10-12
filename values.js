@@ -1,12 +1,12 @@
-var PipeColor = "yellow";
-var PlayerColor = "pink";
+var PipeColor = "blue";
+var PlayerColor = "red";
 
 var BirdSpeed = 1;
 var PipeSpeed = 1;
 var PipeGap = 50;
 
-var UpKey = "ArrowLeft";
-var DownKey = "ArrowRight";
+var UpKey = "ArrowUp";
+var DownKey = "ArrowDown";
 
 var MadeByName = "Mithil";
 var Message = "DEAD!";

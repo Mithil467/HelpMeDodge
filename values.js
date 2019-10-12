@@ -1,17 +1,17 @@
-var PipeColor = "yellow";
-var PlayerColor = "pink";
+var PipeColor = "red";
+var PlayerColor = "blue";
 
-var BirdSpeed = 1;
-var PipeSpeed = 1;
+var BirdSpeed = 2;
+var PipeSpeed = 2;
 var PipeGap = 50;
 
-var UpKey = "ArrowLeft";
-var DownKey = "ArrowRight";
+var UpKey = "w";
+var DownKey = "s";
 
 var MadeByName = "Mithil";
 var Message = "DEAD!";
 var GameName = "Help Me DODGE viper!";
-var DisplayScore = false;
+var DisplayScore = true;
 
 
 /*

@@ -1,5 +1,5 @@
 var PipeColor = "yellow";
-var PlayerColor = "pink";
+var PlayerColor = "black";
 
 var BirdSpeed = 1;
 var PipeSpeed = 1;
